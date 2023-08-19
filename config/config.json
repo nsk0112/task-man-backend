@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "anka_vision",
+      "database": "task_management_db",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": 5481
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "first_DB_test",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "root",
+      "password": null,
+      "database": "first_DB_production",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    }
+  }
+  
